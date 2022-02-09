@@ -15,7 +15,7 @@ allocator that has the following characteristics:
     size. Leading to space-efficient representation of small objects.
 *   Low overhead sampling, enabling detailed insight into applications memory
     usage.
-
+great
 ## Usage
 
 You use TCMalloc by specifying it as the `malloc` attribute on your binary rules in Bazel.
